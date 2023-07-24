@@ -1,0 +1,4 @@
+tmp*
+datasets/
+.vscode
+.DS_Store
